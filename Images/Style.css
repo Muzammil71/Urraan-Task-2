@@ -1,0 +1,138 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+}
+.h {
+    align-items: center;
+    padding-top: 40px;
+}
+.logo {
+    display: flex;
+    align-content: center;
+    padding-left: 80px;
+    margin-top: 20px;
+}
+.tagline {
+    margin-top: 12px;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 24px;
+    letter-spacing: 3px;
+    font-family: 'Helvetica';
+    font-weight: lighter;
+}
+.subtagline {
+    text-align: center;
+    justify-content: space-around;
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-family: 'Helvetica';
+    font-weight: lighter;
+    color: rgb(104, 106, 106);
+    margin-top: 18px;
+}
+.download-buttons {
+    display: flex;
+    align-content: center;
+    gap: 14px;
+    padding-left: 50px;
+    margin-top: 36px;
+}
+
+
+
+.feature {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-family: 'Helvetica';
+}
+.Channel {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(104, 106, 106);
+    letter-spacing: 2px;
+    font-weight: 200;
+    padding-right: 100px;
+    margin-top: 125px;
+}
+.ch {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+.featur {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-family: 'Helvetica';
+}
+.msg {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(104, 106, 106);
+    letter-spacing: 2px;
+    font-weight: 200;
+    padding-left: 100px;
+    margin-top: 170px;
+}
+.ms {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    letter-spacing: 3px;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+
+
+.article {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    font-family: 'Helvetica';
+}
+.vector {
+    position: relative;
+    right: 190px;
+    margin-top: 50px;
+}
+.future {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(104, 106, 106);
+    letter-spacing: 2px;
+    font-weight: 200;
+    padding-right: 280px;
+    margin-top: 40px;
+}
+.fu {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+
+
+.footer {
+    align-content: center;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 22px;
+    font-weight: 200;
+    padding-top: 75px;
+}
+.Con {
+    text-decoration: none;
+}
+.per {
+    align-content: center;
+}
